@@ -12,7 +12,7 @@ from discord.ext.commands import Bot
 import file_editor
 import re
 
-TOKEN = "ODMzNjU4OTU0MTg5NzY2NjY2.YH1jZw.a35L7o2g4c8oorAbb8xSiW6ht1M"
+TOKEN = ""
 
 bot = Bot(command_prefix = '!')
 
